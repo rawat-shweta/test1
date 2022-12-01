@@ -1,0 +1,34 @@
+/*navbar font*/
+
+.navbar-brand{
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size:2em;
+}
+
+/*navbar clr*/
+
+.navbar #mymenu .custom-nav .nav-item a{
+	color: white;
+
+}
+
+/*navbar hove clr*/
+.navbar #mymenu .custom-nav .nav-item a:hover{
+	color: #f0aab1;
+}
+
+
+
+/*header responsive image*/
+
+
+.back-image{
+	background-size:cover;
+	background-position:center center;
+	background-repeat: no-repeat;
+	min-height:70vh;
+	border-radius:0px;
+	background-image: url('../images/laptop.jpeg');
+	margin-top:60px;
+}

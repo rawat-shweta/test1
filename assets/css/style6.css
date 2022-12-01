@@ -1,0 +1,16 @@
+.main{
+	height:900px;
+	width: 100%;
+	background-color:brown;
+}
+
+.header{
+	height: 9%;
+	width: auto;
+	background-color: black;
+}
+
+.header .logo img{
+	height: 8%;
+
+}

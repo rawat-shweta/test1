@@ -1,0 +1,104 @@
+
+nav{
+	height:50px;
+	width: auto;
+    
+}
+
+nav img{
+	height:40px;
+	padding-left:80px;
+	text-align: center;
+}
+
+nav ul{
+	display:flex;
+	justify-content:flex-end;
+	list-style-type:none;
+	margin-right: 150px;
+	margin-left: 150px;
+	
+}
+
+nav ul li{
+	padding-left:10px;
+	padding-right:10px;
+}
+/*................... nav end................................................*/
+
+header img{
+	height:400px;
+	width:1585px;
+}
+
+/*.......................header end........................*/
+
+.grid-container{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	padding-top:60px;
+	
+ }
+
+.grid-item1{
+	font-size:42px;
+	padding-top: 60px;
+    padding-left:120px;
+    background-color: #eeeeee;
+   
+}
+
+
+.line{
+	width:70px;
+	height:3px;
+	background-color: yellow;
+    text-align: center;
+
+}
+
+.grid-item2{
+     color: #8a8b97;
+     background-color: #eeeeee;
+
+}
+
+.grid-item2 p{
+	padding-top:30px;
+}
+
+/*..............................about end........................*/
+
+.expertise{
+	height:500px;
+	width: auto;
+	padding-top: 20px;
+
+}
+
+.container{
+	height:400px;
+	width:300px;
+	padding-top:300px;
+	padding-bottom:50px ;
+
+}
+
+
+.card-deck{
+	height:250px;
+	
+	}
+
+
+.card-deck i{
+	padding-right: 20px;
+	padding-top: 5px;
+}
+
+
+.card-deck p{
+	padding-top:20px;
+}
+
+
